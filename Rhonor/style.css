@@ -1,0 +1,23 @@
+a {
+    color: #0060B6;
+    text-decoration: none;
+    font-family: cursive;
+}
+body {
+    background-color: rgba(167, 158, 158, 0.445);
+  }
+
+h1 {
+    color: #0a06ff;
+    text-decoration: none;
+    border-style: groove;
+    text-shadow: 3px 3px 5px grey;
+    font-family: 'Courier New', Courier, monospace;
+    border-color: rgb(17, 0, 255);
+}
+
+h0 {
+    color: #0a06ff;
+    text-decoration: none;
+    border-color: black;
+}
